@@ -1,4 +1,4 @@
-This Project is my Dissertation Project for Year 3 of Computer Science at Newcastle University. The program is intended to be a technical demonstration, and therefore not a complete game. Bugs are present and there are no menus.
+This Project is my Dissertation Project for Year 3 of Computer Science at University. The program is intended to be a technical demonstration, and therefore not a complete game. Bugs are present and there are no menus.
 
 The idea of the game is to have each object running in parallel. Each object is possessed and updated by an individual thread, and rendered in the main thread.
 
@@ -11,3 +11,5 @@ sfml 2.1
 soil
 
 The libraries must be in the same directory as the repo in order to run correctly.
+
+Please refer to the license
