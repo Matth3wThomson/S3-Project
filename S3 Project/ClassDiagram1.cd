@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FreqCircle">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAACCEIAEgAAQAAIQAAAAAABBAAAARAACBAAAg=</HashCode>
+      <FileName>FreqCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputHandler">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACAAAEAACAAAAAAAAAAAAAAAAAAAEAAAgABAAM=</HashCode>
+      <FileName>InputHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthHUD">
+    <Position X="11.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAAAAAAIAEIEAAAAAAAAAgABAAAAAAAAA=</HashCode>
+      <FileName>HealthHUD.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="greenBar" />
+      <Field Name="redBar" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Mesh">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAQAAC0QUAAgAAAAJAAAASISARAgAAAYiAAAAAAAA=</HashCode>
+      <FileName>Mesh.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RenderObject">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gISYAAAGAABBEgRgAAAAAAoAACABwkACBDBIAEIAIAA=</HashCode>
+      <FileName>RenderObject.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="shader" />
+      <Field Name="mesh" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Shader">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAFAAAIAAAAgQAAAAAABQABAABAAAE=</HashCode>
+      <FileName>Shader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SRenderer">
+    <Position X="2.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAEEAAQAQAAAAgBAAAAEAgCIAAABAEAAIAg=</HashCode>
+      <FileName>SRenderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrequencyAnalysis">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAIAAAIogCQBAgAEAAACAAMihABBAAAAEAAAAA=</HashCode>
+      <FileName>FrequencyAnalysis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAABAAEEAQAAAAAAAAAA=</HashCode>
+      <FileName>Singleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Settings">
+    <Position X="0.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACgESAAIAAAAAAAQAoABIAAAIAgAAAAGAACAA=</HashCode>
+      <FileName>Settings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MeshBuffer">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAACEAAAAAQAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Mesh.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ShaderStage">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAQAAAAAAACAAAAAAAAAAAAAAAAQEAAAAAAAAA=</HashCode>
+      <FileName>Shader.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

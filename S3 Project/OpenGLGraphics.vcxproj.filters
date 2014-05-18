@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="FreqCircle.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Graphical</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderObject.cpp">
+      <Filter>Graphical</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Graphical</Filter>
+    </ClCompile>
+    <ClCompile Include="SRenderer.cpp">
+      <Filter>Graphical</Filter>
+    </ClCompile>
+    <ClCompile Include="FrequencyAnalysis.cpp">
+      <Filter>Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Shape.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="InputHandler.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HealthHUD.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Settings.cpp">
+      <Filter>Settings</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FreqCircle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Graphical</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderObject.h">
+      <Filter>Graphical</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Graphical</Filter>
+    </ClInclude>
+    <ClInclude Include="SRenderer.h">
+      <Filter>Graphical</Filter>
+    </ClInclude>
+    <ClInclude Include="FrequencyAnalysis.h">
+      <Filter>Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>Abstract</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Projection.h">
+      <Filter>Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="HealthHUD.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="testFrag.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="testVert.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{fe754830-40c8-4ec7-82d5-38c0beb2bc6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{8e3a262a-245d-4fb5-bcaa-418c853d783b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{fb740f94-7ebc-4a94-bd7b-4d49b0a9b643}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphical">
+      <UniqueIdentifier>{aaeec0a1-9e3d-4cbc-bee9-7b975fe6094d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Audio">
+      <UniqueIdentifier>{7853fd2c-aed8-4543-9f9c-5b6d00c65f2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Abstract">
+      <UniqueIdentifier>{ad4532b7-6b07-4cf4-b54a-a20a152ad22d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Physics">
+      <UniqueIdentifier>{d55046d3-ac2c-4b18-ad68-943ecf83835a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Settings">
+      <UniqueIdentifier>{04772174-5b2f-42df-8be3-303cff0431d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

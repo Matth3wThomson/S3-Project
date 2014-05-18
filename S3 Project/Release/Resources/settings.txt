@@ -1,0 +1,7 @@
+samplesize 64 
+players 3
+threaded 1 
+resolution 1280 720 
+fullscreen 0 
+vsync 0
+song flumeSong2.mp3
