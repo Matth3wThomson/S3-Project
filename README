@@ -4,6 +4,10 @@ The idea of the game is to have each object running in parallel. Each object is 
 
 All work found herein is property of Matthew Thomson. You are permitted to download and change the code as you wish, but all credit belongs to the owner.
 
+It requires:
+
+  OpenGL 3.3+
+
 To fork this repo you will need the following libraries:
 
 Glew
